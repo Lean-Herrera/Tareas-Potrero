@@ -1,0 +1,32 @@
+
+
+body{
+    background-color: rgb(255, 237, 229);
+}
+
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    justify-content: center;
+    text-align: center;
+    color: chocolate;
+}
+
+h2{
+color: brown;
+}
+
+.foto-tiramisu{
+    width: 500px;
+    height: 250px;
+}
+
+.foto-chocotorta{
+    width: 500px;
+    height: 250px;
+}
+
+p{
+    color: rgb(128, 40, 40);
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
